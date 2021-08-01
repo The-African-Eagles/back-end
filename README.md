@@ -66,4 +66,4 @@ At the end of the day, you can run the `post_processing.py` file to generate sum
 
 ## License
 
-See the [LICENSE]() file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/The-African-Eagles/back-end/blob/main/LICENSE) file for license rights and limitations (MIT).
