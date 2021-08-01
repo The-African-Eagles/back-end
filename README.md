@@ -56,7 +56,7 @@ Create a virtual environment for your project and install necessary libraries. T
 
 This project was trained to predict rotten and fresh fruits, so you can use some real world fruits to keep track of their quality over time.
 
-### Step 3: Generate summary data
+### Step 4: Generate summary data
 
 At the end of the day, you can run the `post_processing.py` file to generate summary data to keep track of how many fruits were rotten or fresh.
 
