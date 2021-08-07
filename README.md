@@ -62,7 +62,7 @@ At the end of the day, you can run the `post_processing.py` file to generate sum
 
 ## Watch the demo
 
-[![TRIA Demo]()](youtube-vid-link "TRIA Demo")
+[![TRIA Demo](http://img.youtube.com/vi/3IE6bdrxjSc/0.jpg)](https://youtu.be/3IE6bdrxjSc "TRIA Demo")
 
 ## License
 
