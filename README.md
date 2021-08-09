@@ -60,6 +60,8 @@ This project was trained to predict rotten and fresh fruits, so you can use some
 
 At the end of the day, you can run the `post_processing.py` file to generate summary data to keep track of how many fruits were rotten or fresh.
 
+![TRIA USER GUIDE](https://github.com/The-African-Eagles/back-end/blob/main/TRIA%20-%20User%20Guide%20(2).png)
+
 ## Watch the demo
 
 [![TRIA Demo](http://img.youtube.com/vi/3IE6bdrxjSc/0.jpg)](https://youtu.be/3IE6bdrxjSc "TRIA Demo")
